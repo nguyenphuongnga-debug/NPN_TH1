@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="with=device-with=device-with,initial-scale=1.0">
+     <title>Tin Tức 24h</title>
+</head>
+<body>
+
+    <!-- Phần đầu trang -->
+    <header>
+        <h1>Tin Tức 24h</h1>
+        <p>Cập nhật những tin tức mới nhất về cuộc sống, công nghệ và giáo dục.</p>
+    </header>
+<!-- Thanh điều hướng -->
+    <nav>
+        <ul>
+            <li><a href="#tin1">Tin 1</a></li>
+            <li><a href="#tin2">Tin 2</a></li>
+            <li><a href="#tin3">Tin 3</a></li>
+        </ul>
+    </nav>
+
+    <!-- Nội dung chính -->
+    <main>
+
+        <article id="tin1">
+            <h2>Công nghệ trí tuệ nhân tạo phát triển</h2>
+            <p>Trí tuệ nhân tạo đang ngày càng được ứng dụng rộng rãi trong học tập và công việc.</p>
+            <img src="https://placehold.co/600x300" alt="Hình minh họa công nghệ AI">
+            <p><a href="https://html.spec.whatwg.org/">Tìm hiểu thêm về HTML</a></p>
+        </article>
+
+        <article id="tin2">
+            <h2>Xu hướng học tập trực tuyến</h2>
+            <p>Học tập trực tuyến giúp người học tiếp cận kiến thức linh hoạt hơn.</p>
+            <img src="https://placehold.co/600x300" alt="Hình minh họa học trực tuyến">
+        </article>
+
+        <article id="tin3">
+            <h2>Vai trò của dữ liệu trong kinh tế</h2>
+            <p>Phân tích dữ liệu hỗ trợ doanh nghiệp đưa ra những quyết định hiệu quả.</p>
+            <img src="https://placehold.co/600x300" alt="Hình minh họa phân tích dữ liệu">
+        </article>
+
+    </main>
+
+    <!-- Chân trang -->
+    <footer>
+        <p>© 2026 Tin Tức 24h. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
+git init
